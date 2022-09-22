@@ -12,7 +12,7 @@ public class MenuItem {
         this.category = c;
         this.isNew = iN;
     }
-
+//test comment
     public void setPrice(double price) {
         this.price = price;
     }
